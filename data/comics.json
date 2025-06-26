@@ -1,0 +1,20 @@
+
+[
+  {
+    "slug": "batman",
+    "title": "Batman",
+    "description": "Gotham'da geçen karanlık bir hikaye.",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Kara Başlangıç",
+        "pages": 2
+      },
+      {
+        "number": 2,
+        "title": "İntikamın Gölgesi",
+        "pages": 2
+      }
+    ]
+  }
+]
